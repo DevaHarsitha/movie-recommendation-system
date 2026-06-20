@@ -1514,11 +1514,6 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  /* Footer */
-  .footer-inner {
-    flex-direction: column;
-    text-align: center;
-  }
 
   /* Side Panel */
   .side-panel {
